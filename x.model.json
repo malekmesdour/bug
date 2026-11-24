@@ -1,0 +1,10 @@
+{
+  "jcrTitle": "m",
+  "defaultOpen": true,
+  ":items": {
+    "a": {
+      ":type": "embed",
+      "html": "<iframe srcdoc=\"<script>alert(document.domain)</script>\"></iframe>"
+    }
+  }
+}
